@@ -1,0 +1,99 @@
+08:26:21|  [Load Model]
+08:26:21|   Loading unit  from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\J2EE\J2EE.mdl
+08:26:22|   Loading unit Logical View::javax from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_javax.cat
+08:26:22|   Loading unit Logical View::javax::accessibility from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_accessibility.cat
+08:26:22|   Loading unit Logical View::javax::activation from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_activation.cat
+08:26:22|   Loading unit Logical View::javax::ejb from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_ejb.cat
+08:26:22|   Loading unit Logical View::javax::jms from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_jms.cat
+08:26:22|   Loading unit Logical View::javax::mail from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_mail.cat
+08:26:22|   Loading unit Logical View::javax::naming from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_naming.cat
+08:26:22|   Loading unit Logical View::javax::net from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_net.cat
+08:26:22|   Loading unit Logical View::javax::rmi from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_rmi.cat
+08:26:22|   Loading unit Logical View::javax::security from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_security.cat
+08:26:22|   Loading unit Logical View::javax::servlet from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_servlet.cat
+08:26:22|   Loading unit Logical View::javax::sql from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_sql.cat
+08:26:22|   Loading unit Logical View::javax::swing from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_swing.cat
+08:26:24|   Loading unit Logical View::javax::transaction from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_transaction.cat
+08:26:24|   Loading unit Logical View::java from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_java.cat
+08:26:24|   Loading unit Logical View::java::applet from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_applet.cat
+08:26:24|   Loading unit Logical View::java::awt from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_awt.cat
+08:26:25|   Loading unit Logical View::java::lang from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_lang.cat
+08:26:25|   Loading unit Logical View::java::util from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_util.cat
+08:26:25|   Loading unit Logical View::java::security from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_security.cat
+08:26:25|   Loading unit Logical View::java::io from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_io.cat
+08:26:25|   Loading unit Logical View::java::beans from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_beans.cat
+08:26:25|   Loading unit Logical View::java::text from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_text.cat
+08:26:25|   Loading unit Logical View::java::math from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_math.cat
+08:26:25|   Loading unit Logical View::java::net from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_net.cat
+08:26:25|   Loading unit Logical View::java::rmi from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_rmi.cat
+08:26:25|   Loading unit Logical View::java::sql from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_sql.cat
+08:26:25|   Loading unit Logical View::org from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_org.cat
+08:26:25|   Loading unit Logical View::org::omg from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_omg.cat
+08:26:26|   Loading unit Component View::javax from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_javax.sub
+08:26:26|   Loading unit Component View::javax::activation from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_activation.sub
+08:26:26|   Loading unit Component View::javax::rmi from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_rmi.sub
+08:26:26|   Loading unit Component View::javax::transaction from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_transaction.sub
+08:26:26|   Loading unit Component View::javax::security from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_security.sub
+08:26:26|   Loading unit Component View::javax::sql from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_sql.sub
+08:26:26|   Loading unit Component View::javax::jms from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_jms.sub
+08:26:26|   Loading unit Component View::javax::naming from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_naming.sub
+08:26:26|   Loading unit Component View::javax::net from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_net.sub
+08:26:26|   Loading unit Component View::javax::mail from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_mail.sub
+08:26:26|   Loading unit Component View::javax::servlet from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_servlet.sub
+08:26:26|   Loading unit Component View::javax::ejb from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2ee_ejb.sub
+08:26:26|   Loading unit Component View::javax::swing from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_swing.sub
+08:26:26|   Loading unit Component View::javax::accessibility from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_accessibility.sub
+08:26:26|   Loading unit Component View::java from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_java.sub
+08:26:26|   Loading unit Component View::java::applet from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_applet.sub
+08:26:26|   Loading unit Component View::java::awt from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_awt.sub
+08:26:26|   Loading unit Component View::java::lang from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_lang.sub
+08:26:26|   Loading unit Component View::java::util from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_util.sub
+08:26:26|   Loading unit Component View::java::security from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_security.sub
+08:26:26|   Loading unit Component View::java::io from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_io.sub
+08:26:26|   Loading unit Component View::java::beans from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_beans.sub
+08:26:26|   Loading unit Component View::java::text from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_text.sub
+08:26:26|   Loading unit Component View::java::math from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_math.sub
+08:26:26|   Loading unit Component View::java::net from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_net.sub
+08:26:26|   Loading unit Component View::java::rmi from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_rmi.sub
+08:26:26|   Loading unit Component View::java::sql from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_sql.sub
+08:26:26|   Loading unit Component View::org from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_org.sub
+08:26:26|   Loading unit Component View::org::omg from file C:\Program Files (x86)\Rational\Rose\framework\frameworks\Shared Components\j2se_1_3_omg.sub
+08:26:28|  
+08:26:28|  [Update Model Properties]
+08:26:28|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|      [[Update Model Properties]]
+08:26:29|  
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+08:26:29|  [Customizable Menus]
+ 
+ 
+ 
+ 
